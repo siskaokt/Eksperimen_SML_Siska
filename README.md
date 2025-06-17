@@ -27,7 +27,7 @@ File `automate_Krisdayanti Siska Oktavia Simbolon.py` berisi pipeline otomatis u
 - Standardisasi fitur numerik
 - Simpan hasil bersih ke `banknote_preprocessing.csv`
 
-## 📁 File dalam Repo
+## File dalam Repo
 - `Eksperimen_Krisdayanti Siska Oktavia Simbolon.ipynb`: notebook eksplorasi dan preprocessing
 - `automate_Krisdayanti Siska Oktavia Simbolon.py`: pipeline otomatis
 - `banknote.csv`: dataset asli
