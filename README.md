@@ -1,5 +1,5 @@
 # Eksperimen_SML_Siska
-## 🗂 Dataset
+## Dataset
 - **Nama**: Banknote Authentication Dataset
 - **Sumber**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/267/banknote+authentication)
 - **Fitur**:
